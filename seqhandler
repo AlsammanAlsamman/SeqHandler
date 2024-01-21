@@ -1,0 +1,39 @@
+#!/usr/bin/python3
+
+############################################## About Author #########################################
+# Created by: Alsamman M. Alsamman                                                                  #
+# Emails: smahmoud [at] ageri.sci.eg or A.Alsamman [at] cgiar.org or SammanMohammed [at] gmail.com  #
+# License: MIT License - https://opensource.org/licenses/MIT                                        #
+# Disclaimer: The script comes with no warranty, use at your own risk                               #
+# This script is not intended for commercial use                                                    #
+#####################################################################################################
+
+import sys
+from FASTA import FASTA , Protein
+from seqOperations import getAAtable
+
+# # if no arguments provided print the help message
+# if len(sys.argv) == 1:
+#     print("Usage:")
+#     print("Example: ")
+#     sys.exit(1)
+    
+# # check that we have 3 arguments
+# if len(sys.argv) != 4:
+#     print("Error: The script takes 3 arguments")
+#     sys.exit(1)
+
+# Read Fasta seqeucnes files
+# reporting seqeunce length 
+# converting different formats to fasta
+# removing duplicates
+# removing sequences with Ns
+# removing sequences with length less than 100bp
+# removing sequences with non-ATGC characters 
+    
+# myfasta = FASTA("sampledata/FastaDNA.fasta")
+# myfasta.getSummary()
+
+myprotein = Protein("sampledata/FastaProtein.fasta")
+myprotein.getSummary()
+print(myprotein.get_aa_table())

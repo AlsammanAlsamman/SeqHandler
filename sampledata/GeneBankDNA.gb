@@ -1,0 +1,610 @@
+LOCUS       OR523692                 137 bp    DNA     linear   PRI 17-OCT-2023
+DEFINITION  Homo sapiens p53 (p53) gene, partial cds.
+ACCESSION   OR523692
+VERSION     OR523692.1
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 137)
+  AUTHORS   Ali,M.S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-SEP-2023) Department of Molecular Med, Jamia Hamdard,
+            Hamdard Nagar, Delhi, Delhi 110062, India
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..137
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+     gene            <1..>137
+                     /gene="p53"
+     mRNA            <1..>137
+                     /gene="p53"
+                     /product="p53"
+     CDS             <1..>137
+                     /gene="p53"
+                     /note="p53-1"
+                     /codon_start=2
+                     /product="p53"
+                     /protein_id="WNY22711.1"
+                     /translation="GNLLGRNSFEVRVCACPGRDRRTEEENLRKKGEPHHELPPGSTK
+                     R"
+ORIGIN      
+        1 tggtaatcta ctgggacgga acagctttga ggtgcgtgtt tgtgcctgtc ctgggagaga
+       61 ccggcgcaca gaggaagaga atctccgcaa gaaaggggag cctcaccacg agctgccccc
+      121 agggagcact aagcgag
+//
+
+LOCUS       JF923572                 110 bp    DNA     linear   PRI 25-JUL-2016
+DEFINITION  Homo sapiens p53 (p53) gene, exon 7 and partial cds.
+ACCESSION   JF923572
+VERSION     JF923572.1
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 110)
+  AUTHORS   Singh,S., Rajput,S.K., Singh,M., Singh,A.K., Misra,P.K., Singh,R.K.
+            and Gambhir,I.S.
+  TITLE     p53 mutation analysis in breast cancer patients of North Eastern
+            Indian population
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 110)
+  AUTHORS   Singh,S., Rajput,S.K., Singh,M., Singh,A.K., Misra,P.K., Singh,R.K.
+            and Gambhir,I.S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-MAY-2011) Department of Medicine, Institute of
+            Medical Sciences, Banaras Hindu University, Varanasi, Uttar Pradesh
+            221005, India
+FEATURES             Location/Qualifiers
+     source          1..110
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /isolation_source="healthy case in northeastern Indian
+                     population"
+                     /db_xref="taxon:9606"
+     gene            <1..>110
+                     /gene="p53"
+     mRNA            <1..>110
+                     /gene="p53"
+                     /product="p53"
+     CDS             <1..>110
+                     /gene="p53"
+                     /codon_start=1
+                     /product="p53"
+                     /protein_id="AEQ16485.1"
+                     /translation="VGSDCTTIHYNYMCNSSCMGGMNRRPILTIITLEDS"
+     exon            1..110
+                     /gene="p53"
+                     /number=7
+ORIGIN      
+        1 gttggctctg actgtaccac catccactac aactacatgt gtaacagttc ctgcatgggc
+       61 ggcatgaacc ggaggcccat cctcaccatc atcacactgg aagactccag
+//
+
+LOCUS       JF923571                 113 bp    DNA     linear   PRI 25-JUL-2016
+DEFINITION  Homo sapiens p53 (p53) gene, exon 6 and partial cds.
+ACCESSION   JF923571
+VERSION     JF923571.1
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 113)
+  AUTHORS   Singh,S., Rajput,S.K., Singh,M., Singh,A.K., Misra,P.K., Singh,R.K.
+            and Gambhir,I.S.
+  TITLE     p53 mutation analysis in breast cancer patients of North Eastern
+            Indian population
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 113)
+  AUTHORS   Singh,S., Rajput,S.K., Singh,M., Singh,A.K., Misra,P.K., Singh,R.K.
+            and Gambhir,I.S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-MAY-2011) Department of Medicine, Institute of
+            Medical Sciences, Banaras Hindu University, Varanasi, Uttar Pradesh
+            221005, India
+FEATURES             Location/Qualifiers
+     source          1..113
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /isolation_source="healthy case in northeastern Indian
+                     population"
+                     /db_xref="taxon:9606"
+     gene            <1..>113
+                     /gene="p53"
+     mRNA            <1..>113
+                     /gene="p53"
+                     /product="p53"
+     CDS             <1..>113
+                     /gene="p53"
+                     /codon_start=3
+                     /product="p53"
+                     /protein_id="AEQ16484.1"
+                     /translation="LAPPQHLIRVEGNLRVEYLDDRNTFRHSVVVPYEPPE"
+     exon            1..113
+                     /gene="p53"
+                     /number=6
+ORIGIN      
+        1 gtctggcccc tcctcagcat cttatccgag tggaaggaaa tttgcgtgtg gagtatttgg
+       61 atgacagaaa cacttttcga catagtgtgg tggtgcccta tgagccgcct gag
+//
+
+LOCUS       JF923570                 183 bp    DNA     linear   PRI 25-JUL-2016
+DEFINITION  Homo sapiens p53 (p53) gene, exon 5 and partial cds.
+ACCESSION   JF923570
+VERSION     JF923570.1
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 183)
+  AUTHORS   Singh,S., Rajput,S.K., Singh,M., Singh,A.K., Misra,P.K., Singh,R.K.
+            and Gambhir,I.S.
+  TITLE     p53 mutation analysis in breast cancer patients of North Eastern
+            Indian population
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 183)
+  AUTHORS   Singh,S., Rajput,S.K., Singh,M., Singh,A.K., Misra,P.K., Singh,R.K.
+            and Gambhir,I.S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-MAY-2011) Department of Medicine, Institute of
+            Medical Sciences, Banaras Hindu University, Varanasi, Uttar Pradesh
+            221005, India
+FEATURES             Location/Qualifiers
+     source          1..183
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /isolation_source="healthy case in northeastern Indian
+                     population"
+                     /db_xref="taxon:9606"
+     gene            <1..>183
+                     /gene="p53"
+     mRNA            <1..>183
+                     /gene="p53"
+                     /product="p53"
+     CDS             <1..>183
+                     /gene="p53"
+                     /codon_start=1
+                     /product="p53"
+                     /protein_id="AEQ16483.1"
+                     /translation="YSPALNKMFCQLAKTCPVQLWVDSTPPPGTRVRAMAIYKQSQHM
+                     TEVVRRCPHHERCSDSD"
+     exon            1..183
+                     /gene="p53"
+                     /number=5
+ORIGIN      
+        1 tactcccctg ccctcaacaa gatgttttgc caactggcca agacctgccc tgtgcagctg
+       61 tgggttgatt ccacaccccc gcccggcacc cgcgtccgcg ccatggccat ctacaagcag
+      121 tcacagcaca tgacggaggt tgtgaggcgc tgcccccacc atgagcgctg ctcagatagc
+      181 gat
+//
+
+LOCUS       JF923569                 279 bp    DNA     linear   PRI 25-JUL-2016
+DEFINITION  Homo sapiens p53 (p53) gene, exon 4 and partial cds.
+ACCESSION   JF923569
+VERSION     JF923569.1
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 279)
+  AUTHORS   Singh,S., Rajput,S.K., Singh,M., Singh,A.K., Misra,P.K., Singh,R.K.
+            and Gambhir,I.S.
+  TITLE     p53 mutation analysis in breast cancer patients of North Eastern
+            Indian population
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 279)
+  AUTHORS   Singh,S., Rajput,S.K., Singh,M., Singh,A.K., Misra,P.K., Singh,R.K.
+            and Gambhir,I.S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-MAY-2011) Department of Medicine, Institute of
+            Medical Sciences, Banaras Hindu University, Varanasi, Uttar Pradesh
+            221005, India
+FEATURES             Location/Qualifiers
+     source          1..279
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /isolation_source="breast cancer patient in northeastern
+                     Indian population"
+                     /db_xref="taxon:9606"
+     gene            <1..>279
+                     /gene="p53"
+     mRNA            <1..>279
+                     /gene="p53"
+                     /product="p53"
+     CDS             <1..>279
+                     /gene="p53"
+                     /codon_start=1
+                     /product="p53"
+                     /protein_id="AEQ16482.1"
+                     /translation="SPLPSQAMDDLMLSPDDIEQWFTEDPGPDEAPRMPEAAPRVAPA
+                     PAAPTPAAPAPAPSWPLSSSVPSQKTYQGSYGFRLGFLHSGTAKSVTCT"
+     exon            1..279
+                     /gene="p53"
+                     /number=4
+ORIGIN      
+        1 tcccccttgc cgtcccaagc aatggatgat ttgatgctgt ccccggacga tattgaacaa
+       61 tggttcactg aagacccagg tccagatgaa gctcccagaa tgccagaggc tgctccccgc
+      121 gtggcccctg caccagcagc tcctacaccg gcggcccctg caccagcccc ctcctggccc
+      181 ctgtcatctt ctgtcccttc ccagaaaacc taccagggca gctacggttt ccgtctgggc
+      241 ttcttgcatt ctgggacagc caagtctgtg acttgcacg
+//
+
+LOCUS       JF923567                 279 bp    DNA     linear   PRI 25-JUL-2016
+DEFINITION  Homo sapiens p53 (p53) gene, exon 4 and partial cds.
+ACCESSION   JF923567
+VERSION     JF923567.1
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 279)
+  AUTHORS   Singh,S., Rajput,S.K., Singh,M., Singh,A.K., Misra,P.K., Singh,R.K.
+            and Gambhir,I.S.
+  TITLE     p53 mutation analysis in breast cancer patients of North Eastern
+            Indian population
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 279)
+  AUTHORS   Singh,S., Rajput,S.K., Singh,M., Singh,A.K., Misra,P.K., Singh,R.K.
+            and Gambhir,I.S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-MAY-2011) Department of Medicine, Institute of
+            Medical Sciences, Banaras Hindu University, Varanasi, Uttar Pradesh
+            221005, India
+FEATURES             Location/Qualifiers
+     source          1..279
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /isolation_source="healthy case in northeastern Indian
+                     population"
+                     /db_xref="taxon:9606"
+     gene            <1..>279
+                     /gene="p53"
+     mRNA            <1..>279
+                     /gene="p53"
+                     /product="p53"
+     CDS             <1..>279
+                     /gene="p53"
+                     /codon_start=1
+                     /product="p53"
+                     /protein_id="AEQ16481.1"
+                     /translation="SPLPSQAMDDLMLSPDDIEQWFTEDPGPDEAPRMPEAAPPVAPA
+                     PAAPTPAAPAPAPSWPLSSSVPSQKTYQGSYGFRLGFLHSGTAKSVTCT"
+     exon            1..279
+                     /gene="p53"
+                     /number=4
+ORIGIN      
+        1 tcccccttgc cgtcccaagc aatggatgat ttgatgctgt ccccggacga tattgaacaa
+       61 tggttcactg aagacccagg tccagatgaa gctcccagaa tgccagaggc tgctcccccc
+      121 gtggcccctg caccagcagc tcctacaccg gcggcccctg caccagcccc ctcctggccc
+      181 ctgtcatctt ctgtcccttc ccagaaaacc taccagggca gctacggttt ccgtctgggc
+      241 ttcttgcatt ctgggacagc caagtctgtg acttgcacg
+//
+
+LOCUS       AY211956                 698 bp    DNA     linear   MAM 24-JUL-2016
+DEFINITION  Macropus rufus BRCA1 (BRCA1) gene, partial cds.
+ACCESSION   AY211956
+VERSION     AY211956.1
+KEYWORDS    .
+SOURCE      Osphranter rufus (red kangaroo)
+  ORGANISM  Osphranter rufus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Metatheria; Diprotodontia; Macropodidae; Osphranter.
+REFERENCE   1  (bases 1 to 698)
+  AUTHORS   Ramirez,C.J., Fleming,M.A., Potter,J.D., Ostrander,G.K. and
+            Ostrander,E.A.
+  TITLE     Marsupial BRCA1: conserved regions in mammals and the potential
+            effect of missense changes
+  JOURNAL   Oncogene 23 (9), 1780-1788 (2004)
+   PUBMED   15001988
+REFERENCE   2  (bases 1 to 698)
+  AUTHORS   Ramirez,C.J., Fleming,M.A., Potter,J.D., Ostrander,G.K. and
+            Ostrander,E.A.
+  TITLE     Sequence analysis of marsupial BRCA1: an evolutionary approach to
+            understanding breast cancer
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 698)
+  AUTHORS   Ramirez,C.J., Fleming,M.A., Potter,J.D., Ostrander,G.K. and
+            Ostrander,E.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-JAN-2003) Human Biology, Fred Hutchinson Cancer
+            Research Center, 1100 Fairview Ave. N, Seattle, WA 98109, USA
+FEATURES             Location/Qualifiers
+     source          1..698
+                     /organism="Osphranter rufus"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9321"
+     gene            <1..>698
+                     /gene="BRCA1"
+     mRNA            <1..>698
+                     /gene="BRCA1"
+                     /product="BRCA1"
+     CDS             <1..>698
+                     /gene="BRCA1"
+                     /note="similar to Homo sapiens BRCA1 gene exon 11"
+                     /codon_start=1
+                     /product="BRCA1"
+                     /protein_id="AAO31746.1"
+                     /translation="CGTDARATSLLPETTSLSPNTDRMNVEKAELCNKSKQPGLAKNQ
+                     QSSLDESKEICSAGKTLGAHELNAHHPCERKELEDEPQHPESPRGNPQNCQSGTKLKS
+                     SIQKVNEWLSRSNDILTSDNSYSRNHEQNAEMPSALKDGYPDTADANSNISEKTDPVA
+                     DITYDPWPHVPERSCPRPAENNNIEDKIFGKTYRRKSGHPHLNCITENLFAGAVVAPD
+                     SLIPPEPPKTTKLKR"
+ORIGIN      
+        1 tgtggcacag atgctcgtgc cacctcatta cttcctgaaa ccaccagctt atcgcccaac
+       61 acagaccgaa tgaatgtaga aaaggctgaa ctctgtaata aaagcaaaca gcctggctta
+      121 gcaaaaaacc aacagagcag tctggatgaa agtaaggaaa tatgtagtgc tggaaagacc
+      181 ctgggtgccc atgagctgaa tgcccatcat ccatgcgaga ggaaagaact agaggatgag
+      241 ccacagcacc ctgagagccc cagaggtaat cctcagaact gccagtctgg aaccaaactg
+      301 aaaagtagta ttcagaaagt taatgagtgg ttatccagga gtaatgatat tttaacttct
+      361 gataactcct atagtaggaa ccatgagcag aatgcagaga tgcctagtgc cttaaaagat
+      421 gggtatccag atactgcaga tgcaaattct aacatttctg agaagactga cccagtggct
+      481 gacatcactt atgatccctg gccacatgtg cctgaaagaa gctgccccag gccagcagaa
+      541 aacaataaca ttgaagataa aatatttgga aaaacctatc ggagaaaatc aggtcaccct
+      601 catttgaatt gtataactga aaacttgttt gctggagctg ttgttgctcc tgattctttg
+      661 atccctccag agcctccaaa aacaaccaag ttaaagcg
+//
+
+LOCUS       AY211954                 750 bp    DNA     linear   MAM 24-JUL-2016
+DEFINITION  Dendrolagus matschiei BRCA1 (BRCA1) gene, partial cds.
+ACCESSION   AY211954
+VERSION     AY211954.1
+KEYWORDS    .
+SOURCE      Dendrolagus matschiei (Huon tree kangaroo)
+  ORGANISM  Dendrolagus matschiei
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Metatheria; Diprotodontia; Macropodidae; Dendrolagus.
+REFERENCE   1  (bases 1 to 750)
+  AUTHORS   Ramirez,C.J., Fleming,M.A., Potter,J.D., Ostrander,G.K. and
+            Ostrander,E.A.
+  TITLE     Marsupial BRCA1: conserved regions in mammals and the potential
+            effect of missense changes
+  JOURNAL   Oncogene 23 (9), 1780-1788 (2004)
+   PUBMED   15001988
+REFERENCE   2  (bases 1 to 750)
+  AUTHORS   Ramirez,C.J., Fleming,M.A., Potter,J.D., Ostrander,G.K. and
+            Ostrander,E.A.
+  TITLE     Sequence analysis of marsupial BRCA1: an evolutionary approach to
+            understanding breast cancer
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 750)
+  AUTHORS   Ramirez,C.J., Fleming,M.A., Potter,J.D., Ostrander,G.K. and
+            Ostrander,E.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-JAN-2003) Human Biology, Fred Hutchinson Cancer
+            Research Center, 1100 Fairview Ave. N, Seattle, WA 98109, USA
+FEATURES             Location/Qualifiers
+     source          1..750
+                     /organism="Dendrolagus matschiei"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:165202"
+     gene            <1..>750
+                     /gene="BRCA1"
+     mRNA            <1..>750
+                     /gene="BRCA1"
+                     /product="BRCA1"
+     CDS             <1..>750
+                     /gene="BRCA1"
+                     /note="similar to Homo sapiens BRCA1 gene exon 11"
+                     /codon_start=1
+                     /product="BRCA1"
+                     /protein_id="AAO31744.1"
+                     /translation="VEPCGTDARATSLLPETTSLSPNTFQMNVEKAELCNKSKQPGLA
+                     KNQQSSLDESKEICSAGKTLGAHELNAHHPCERKELEDEPQHPESPRGNPQNCQSGTK
+                     LKSSIQKVNEWLSRSNDILISDNSYSRNHEQNAEMPSALEDGYPDTADGNSNISEKTD
+                     PVADNNTYDPWPHVPERSCPRPAENNNIEDKIFGKTYRRKSGHPHLNCITENLFAGAV
+                     VAPDSLIPPEPPKTTKLKHKRKTISNLQPEDF"
+ORIGIN      
+        1 gtggagccat gtggcacaga tgctcgtgcc acctcattac ttcctgaaac caccagctta
+       61 tcgcccaaca cattccaaat gaatgtagaa aaggctgaac tctgtaataa aagcaaacag
+      121 cctggcttag caaaaaacca acagagcagt ctggatgaaa gtaaggaaat atgtagtgct
+      181 ggaaagaccc tgggtgccca tgagctgaat gcccatcatc catgtgagag gaaagaacta
+      241 gaggatgagc cacagcaccc tgagagcccc agaggtaatc ctcagaactg ccagtctgga
+      301 accaaactga aaagtagtat tcagaaagtt aatgagtggt tatccaggag taatgatatt
+      361 ttaatttctg ataactccta tagtaggaac catgagcaga atgcagagat gcctagtgcc
+      421 ttagaagatg ggtatccaga tactgcagat ggaaattcta acatttctga gaagactgac
+      481 ccagtggctg acaacaacac ttatgatccc tggccacatg tgcctgaaag aagctgcccc
+      541 aggccagcag aaaacaataa cattgaagat aaaatatttg gaaaaaccta tcggagaaaa
+      601 tcaggtcacc ctcatttgaa ttgtataact gaaaacttgt ttgctggagc tgttgttgct
+      661 cctgattctt tgatccctcc agagcctcca aaaacaacca agttaaagca taaaagaaaa
+      721 accatatcta acctgcagcc tgaggatttc
+//
+
+LOCUS       AY211955                 741 bp    DNA     linear   MAM 24-JUL-2016
+DEFINITION  Didelphis virginiana BRCA1 (BRCA1) gene, partial cds.
+ACCESSION   AY211955
+VERSION     AY211955.1
+KEYWORDS    .
+SOURCE      Didelphis virginiana (North American opossum)
+  ORGANISM  Didelphis virginiana
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Metatheria; Didelphimorphia; Didelphidae; Didelphis.
+REFERENCE   1  (bases 1 to 741)
+  AUTHORS   Ramirez,C.J., Fleming,M.A., Potter,J.D., Ostrander,G.K. and
+            Ostrander,E.A.
+  TITLE     Marsupial BRCA1: conserved regions in mammals and the potential
+            effect of missense changes
+  JOURNAL   Oncogene 23 (9), 1780-1788 (2004)
+   PUBMED   15001988
+REFERENCE   2  (bases 1 to 741)
+  AUTHORS   Ramirez,C.J., Fleming,M.A., Potter,J.D., Ostrander,G.K. and
+            Ostrander,E.A.
+  TITLE     Sequence analysis of marsupial BRCA1: an evolutionary approach to
+            understanding breast cancer
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 741)
+  AUTHORS   Ramirez,C.J., Fleming,M.A., Potter,J.D., Ostrander,G.K. and
+            Ostrander,E.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-JAN-2003) Human Biology, Fred Hutchinson Cancer
+            Research Center, 1100 Fairview Ave. N, Seattle, WA 98109, USA
+FEATURES             Location/Qualifiers
+     source          1..741
+                     /organism="Didelphis virginiana"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9267"
+     gene            <1..>741
+                     /gene="BRCA1"
+     mRNA            <1..>741
+                     /gene="BRCA1"
+                     /product="BRCA1"
+     CDS             <1..>741
+                     /gene="BRCA1"
+                     /note="similar to Homo sapiens BRCA1 gene exon 11"
+                     /codon_start=1
+                     /product="BRCA1"
+                     /protein_id="AAO31745.1"
+                     /translation="VEPCGTDARASSLLPDITSVLPNTDSMNVEKAELCDKSKRPDLA
+                     WSQQISQDESKEKCIAGKTSDAKELHELNAHHLYERQELEEQPECPNYPRGNSQNCLS
+                     GTKLKSIQKVNDWLSKSNDILVSDYSSGRIHEQNAEMDSVLEDGHPDVTDGNSSISGK
+                     TDLVADSTDGAWLHMSERSCSRKAESNNIEDKIFGKTYHRKSVHINLNYVTENLIVGA
+                     VDSDSLIPPEPVKKTRLKRKRKTVSDLQP"
+ORIGIN      
+        1 gtggagccat gtggcacaga tgctcgtgcc agctcattac tgcctgacat caccagtgta
+       61 ttgcctaaca cagacagcat gaatgtagaa aaggctgaac tctgtgataa aagcaaaagg
+      121 cctgatttag catggagcca gcagatcagt caggatgaaa gtaaggaaaa atgtattgct
+      181 gggaagacct cagatgcaaa ggagttacat gagctaaatg cccatcatct gtatgagagg
+      241 caagaactag aagagcagcc agagtgcccc aactacccca gaggaaattc tcaaaactgc
+      301 ttgtctggaa ccaaactgaa aagtattcag aaagttaatg actggttatc caaaagtaat
+      361 gacattttag tctctgatta ctcctctggt aggatccatg aacagaatgc agagatggat
+      421 agtgtcttag aagatgggca tccagatgtt acagatggaa attctagcat ttctgggaag
+      481 actgacttgg tggctgactc caccgatggt gcctggctac atatgtctga aagaagctgc
+      541 tccaggaagg cagagagcaa caatattgaa gacaaaatct tcggcaagac ctaccataga
+      601 aaatcagttc acattaattt gaattatgtg actgaaaact tgattgttgg agctgttgat
+      661 tctgattctt tgatccctcc agagcctgtc aaaaaaaccc ggttaaagcg taaaaggaag
+      721 accgtctctg acctacagcc g
+//
+
+LOCUS       AY211953                 732 bp    DNA     linear   MAM 24-JUL-2016
+DEFINITION  Macropus robustus BRCA1 (BRCA1) gene, partial cds.
+ACCESSION   AY211953
+VERSION     AY211953.1
+KEYWORDS    .
+SOURCE      Osphranter robustus (common wallaroo)
+  ORGANISM  Osphranter robustus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Metatheria; Diprotodontia; Macropodidae; Osphranter.
+REFERENCE   1  (bases 1 to 732)
+  AUTHORS   Ramirez,C.J., Fleming,M.A., Potter,J.D., Ostrander,G.K. and
+            Ostrander,E.A.
+  TITLE     Marsupial BRCA1: conserved regions in mammals and the potential
+            effect of missense changes
+  JOURNAL   Oncogene 23 (9), 1780-1788 (2004)
+   PUBMED   15001988
+REFERENCE   2  (bases 1 to 732)
+  AUTHORS   Ramirez,C.J., Fleming,M.A., Potter,J.D., Ostrander,G.K. and
+            Ostrander,E.A.
+  TITLE     Sequence analysis of marsupial BRCA1: an evolutionary approach to
+            understanding breast cancer
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 732)
+  AUTHORS   Ramirez,C.J., Fleming,M.A., Potter,J.D., Ostrander,G.K. and
+            Ostrander,E.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-JAN-2003) Human Biology, Fred Hutchinson Cancer
+            Research Center, 1100 Fairview Ave. N, Seattle, WA 98109, USA
+FEATURES             Location/Qualifiers
+     source          1..732
+                     /organism="Osphranter robustus"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9319"
+     gene            <1..>732
+                     /gene="BRCA1"
+     mRNA            <1..>732
+                     /gene="BRCA1"
+                     /product="BRCA1"
+     CDS             <1..>732
+                     /gene="BRCA1"
+                     /note="similar to Homo sapiens BRCA1 gene exon 11"
+                     /codon_start=1
+                     /product="BRCA1"
+                     /protein_id="AAO31743.1"
+                     /translation="CGTDARATSLLPETTSLSPNTDRMNVEKAELCNKSKQPGLAKNQ
+                     QSSLDESKEICSAGKTLGAHELNAHHPCERKELEDEPQHPESPRGNPQNCQSGTKLKS
+                     SIQKVNEWLSRSNDILTSDNSYSRNHEQNAEMPSALEDGYPDTADANSNISEKTDPVA
+                     DITYDPWPHVPERSCPRPAENNNIEDKIFGKTYRRKSGHSHLNCITENLFAGAVVAPD
+                     SLIPPEPPKTTKLKRKRKTISNLQPE"
+ORIGIN      
+        1 tgtggcacag atgctcgtgc cacctcatta cttcctgaaa ccaccagctt atcgcccaac
+       61 acagaccgaa tgaatgtaga aaaggctgaa ctctgtaata aaagcaaaca gcctggctta
+      121 gcaaaaaacc aacagagcag tctggatgaa agtaaggaaa tatgtagtgc tggaaagacc
+      181 ctgggtgccc atgagctgaa tgcccatcat ccatgtgaga ggaaagaact agaggatgag
+      241 ccacagcacc ctgagagccc cagaggtaat cctcagaact gccagtctgg aaccaaactg
+      301 aaaagtagta ttcagaaagt taatgagtgg ttatccagga gtaatgatat tttaacttct
+      361 gataactcct atagtaggaa ccatgagcag aatgcagaga tgcctagtgc cttagaagat
+      421 gggtatccag atactgcaga tgcaaattct aacatttctg agaagactga cccagtggct
+      481 gacatcactt atgatccctg gccacatgtg cctgaaagaa gctgccccag gccagcagaa
+      541 aacaataaca ttgaagataa aatatttgga aaaacctatc ggagaaaatc aggtcactct
+      601 catttgaatt gtataactga aaacttgttt gctggagctg ttgttgctcc tgattctttg
+      661 atccctccag agcctccaaa aacaaccaag ttaaagcgta aaagaaaaac catatctaac
+      721 ctgcagcctg ag
+//
+
+LOCUS       OR780020                 355 bp    DNA     linear   PRI 06-DEC-2023
+DEFINITION  Homo sapiens isolate n18 BRCA1 (BRCA1) gene, exon 5 and partial
+            cds.
+ACCESSION   OR780020
+VERSION     OR780020.1
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 355)
+  AUTHORS   Abduljalil,H.M., Alhudiri,I.M., Mohamed,A.A., Elshwekh,H.,
+            Elkikli,A. and Enattah,N.S.
+  TITLE     Investigation of BRCA1 exon 5,8,13 and 20 genetic variation in
+            breast cancer among Libyan women
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 355)
+  AUTHORS   Abduljalil,H.M., Alhudiri,I.M., Mohamed,A.A., Elshwekh,H.,
+            Elkikli,A. and Enattah,N.S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-NOV-2023) Genetic Engineering, Libyan Biotechnology
+            Research Centre, Alfornaj, Tripoli 00218, Libya
+FEATURES             Location/Qualifiers
+     source          1..355
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /isolate="n18"
+                     /db_xref="taxon:9606"
+     gene            <1..>355
+                     /gene="BRCA1"
+     mRNA            <99..>187
+                     /gene="BRCA1"
+                     /product="BRCA1"
+     CDS             <99..>187
+                     /gene="BRCA1"
+                     /codon_start=2
+                     /product="BRCA1"
+                     /protein_id="WPN08082.1"
+                     /translation="SLQESTRFSQLVEELLKIICAFQLDTGLE"
+     exon            99..187
+                     /gene="BRCA1"
+                     /number=5
+ORIGIN      
+        1 tcttattttt atttgtttac atgtcttttc ttattttagt gtccttaaaa ggttgataat
+       61 cacttgctga gtgtgtttct caaacaattt aatttcagga gcctacaaga aagtacgaga
+      121 tttagtcaac ttgttgaaga gctattgaaa atcatttgtg cttttcagct tgacacaggt
+      181 ttggagtgta agtgttgaat atcccaagaa tgacactcaa gtgctgtcca tgaaaactca
+      241 ggaagtttgc acaattactt tctatgacgt ggtgataaga ccttttagtc taggttaatt
+      301 ttagttctgt atctgtaatc tatttttaaa aaattactcc cactggtctc acacc
+//
+
+
